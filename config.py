@@ -9,4 +9,4 @@ MAX_AEM_SIZE = 5
 LLM_TEMPERATURE = 0.1
 LLM_TOP_K       = 1      # 1 → greedy
 LLM_TOP_P       = 0.8    # kept for safety; ≤ 0.8 is conservative
-CACHE_DIR = "/projects/klybarge/HPV_Information_Extraction/hf_models/"
+
