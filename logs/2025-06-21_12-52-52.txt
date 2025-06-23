@@ -1,0 +1,96 @@
+2025-06-21 12:52:52,998 │ INFO     │ Loading models once …
+2025-06-21 12:52:52,999 │ INFO     │ Use pytorch device_name: cuda
+2025-06-21 12:52:52,999 │ INFO     │ Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-dot-v1
+2025-06-21 12:53:40,653 │ INFO     │ Loaded 300 RGB items.
+2025-06-21 12:53:40,663 │ INFO     │ 
+━━ ITEM 1 / 300 ━━━━━━━━━━━━━
+2025-06-21 12:53:40,663 │ INFO     │ Question: When is the premiere of 'Carole King & James Taylor: Just Call Out My Name'?
+2025-06-21 12:53:41,280 │ INFO     │ 
+2025-06-21 12:53:41,280 │ INFO     │ 🔍 Top-k chunks by cosine similarity:
+2025-06-21 12:53:41,280 │ INFO     │  1.  sim=0.775  |  documentary Carole King & James Taylor: Just Call Out My Name, premiering on CNN & HBO Max and also performing with Carole King ...200
+2025-06-21 12:53:41,280 │ INFO     │  2.  sim=0.749  |  2, 2022, at 9:00pm ET/PT on CNN. The film will be available on demand via cable/satellite systems, CNNgo platforms, and CNN mobile apps, beginning Monday, January 3, through Sunday, January 16.Please subscribe to Solzy at the Movies on Substack.  Subscribe to CNN Press Room Email Updates Frank Marshall-Directed Film, CAROLE KING & JAMES TAYLOR: JUST CALL OUT MY NAME, Premieres Sunday, Jan. 2 at 9200
+2025-06-21 12:53:41,280 │ INFO     │  3.  sim=0.737  |  :00PM ET/PT on CNN  CNN Films will premiere CAROLE KING & JAMES TAYLOR: Just Call Out My Name for television on Sunday, Jan. 2, 2022, at 9:00pm ET/PT on CNN.  Also released today are the trailer and poster art for the film.  The new documentary feature is centered around Carole King’s and James Taylor’s legendary 2010 Troubadour Reunion Tour, and includes exclusive footage.  The film is directed a200
+2025-06-21 12:53:41,280 │ INFO     │  4.  sim=0.729  |  ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be available on demand via ...  By   	Althea Legaspi  Carole King and James Taylor perform their own hits — alongside harmonizing on each other’s songs — in the new trailer for concert documentary Carole King & James Taylor: Just Call Out My Name. The film premieres on Jan. 2 at 9:00 p.m. ET via CNN and wi200
+2025-06-21 12:53:41,280 │ INFO     │  5.  sim=0.725  |  t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   June 12, 2022, 10:16 am  You are here:     by  Madeline Crone   October 19, 2021, 2:57 pm     A new documentary, Carole King & James Taylor: Just Call Out My Name will premiere on CNN in 2022, while domestic streaming and international distribution rights will go to HBO Max. Directed and produced by F200
+2025-06-21 12:53:41,280 │ INFO     │  6.  sim=0.683  |  Aly Parker                                                                                          Producer                                                                              There are no featured reviews for Carole King & James Taylor: Just Call Out My Name because the movie has not released yet ().              Vote Now: The Best Movie200
+2025-06-21 12:53:41,280 │ INFO     │  7.  sim=0.680  |  he film was commissioned by CNN Films and HBO Max.  CNN is the exclusive domestic broadcaster for the film.  During the Jan. 2 premiere, CAROLE KING & JAMES TAYLOR: Just Call Out My Name, will also stream live for subscribers via CNNgo (www.CNN.  I have no answer as to why the film wasn’t released in 2011, but an appreciation of a musical collaboration that Rolling Stone magazine (and only Rolling200
+2025-06-21 12:53:41,280 │ INFO     │  8.  sim=0.674  |  s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clips of late-night talk show hosts (Leno, Carson, Letterman) introducing Taylor or King or both, then a blip of Oprah praising Taylor, but what she thinks of King, NOBODY KNOWS.  Join James Taylor and Carole King for an unforgettable night of music!  'Just Call Out My Name', a documentary about the cre200
+2025-06-21 12:53:41,280 │ INFO     │  9.  sim=0.657  |  er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. The documentary opens with a montage featuring the late night hosts. This is before the film gets into the main focus: the 2010 Troubadour Reunion Tour featuring the Rock and Roll Hall of Fame members (Taylor-2000, King-1990 and 2021). The Troubadour shows took place over a series of days in Novemb200
+2025-06-21 12:53:41,280 │ INFO     │ 10.  sim=0.656  |  he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name documents the beloved songwriters' triumphant 2010 Troubadour Reunion Tour of arena concerts around the world.                   Genre:                                                           Documentary,                                                           Music200
+2025-06-21 12:53:41,280 │ INFO     │ Use pytorch device_name: cuda
+2025-06-21 12:53:41,280 │ INFO     │ Load pretrained SentenceTransformer: sentence-transformers/multi-qa-mpnet-base-dot-v1
+2025-06-21 12:53:48,528 │ INFO     │ Ranker tags & reasons:
+2025-06-21 12:53:48,536 │ INFO     │   (VH) documentary Carole King & James Taylor: Just Call Out My Name, premiering on CNN & HBO Max and also  — provides premiere date and platform information
+2025-06-21 12:53:48,536 │ INFO     │   (VH) 2, 2022, at 9:00pm ET/PT on CNN. The film will be available on demand via cable/satellite systems, C — provides premiere date and platform information
+2025-06-21 12:53:48,536 │ INFO     │   (VH) :00PM ET/PT on CNN  CNN Films will premiere CAROLE KING & JAMES TAYLOR: Just Call Out My Name for te — provides premiere date and platform information
+2025-06-21 12:53:48,536 │ INFO     │   (VH) ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be avai — provides premiere date and platform information
+2025-06-21 12:53:48,536 │ INFO     │   (H) he film was commissioned by CNN Films and HBO Max.  CNN is the exclusive domestic broadcaster for th — provides additional information about distribution and streaming
+2025-06-21 12:53:48,537 │ INFO     │   (M) s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clip — provides some background information about the film's content
+2025-06-21 12:53:48,537 │ INFO     │   (M) er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. — provides some background information about the film's content
+2025-06-21 12:53:48,537 │ INFO     │   (M) he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name d — provides some background information about the film's content
+2025-06-21 12:53:48,537 │ INFO     │   (L) t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   Ju — irrelevant date information
+2025-06-21 12:53:48,537 │ INFO     │   (L) Aly Parker                                                                                           — irrelevant information about movie ratings
+2025-06-21 12:53:49,445 │ INFO     │ Added summary to AEM. Current memory:
+2025-06-21 12:53:49,445 │ INFO     │    1. Carole King & James Taylor: Just Call Out My Name documentary premieres on CNN & HBO Max.120
+2025-06-21 12:53:57,930 │ INFO     │ Ranker tags & reasons:
+2025-06-21 12:53:57,931 │ INFO     │   (VH) 2, 2022, at 9:00pm ET/PT on CNN. The film will be available on demand via cable/satellite systems, C — New and specific premiere date and time, as well as additional distribution platforms.
+2025-06-21 12:53:57,931 │ INFO     │   (VH) :00PM ET/PT on CNN  CNN Films will premiere CAROLE KING & JAMES TAYLOR: Just Call Out My Name for te — New and specific premiere date and time, as well as additional details about the film.
+2025-06-21 12:53:57,931 │ INFO     │   (VH) ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be avai — New and specific premiere date and time, as well as additional details about the film.
+2025-06-21 12:53:57,931 │ INFO     │   (M) he film was commissioned by CNN Films and HBO Max.  CNN is the exclusive domestic broadcaster for th — New information about the film's production and distribution.
+2025-06-21 12:53:57,931 │ INFO     │   (M) s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clip — New information about the film's content and tone.
+2025-06-21 12:53:57,931 │ INFO     │   (M) er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. — New information about the film's content and tone.
+2025-06-21 12:53:57,931 │ INFO     │   (L) t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   Ju — Irrelevant, as it appears to be a list of timestamps.
+2025-06-21 12:53:57,931 │ INFO     │   (L) Aly Parker                                                                                           — Irrelevant, as it appears to be a placeholder or a review section.
+2025-06-21 12:53:57,931 │ INFO     │   (L) he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name d — Redundant, as it restates information already present in the known context.
+2025-06-21 12:53:57,931 │ INFO     │   (L) Place in Time (EPIX), and most recently the Emmy-winning The Bee Gees: How Can You Mend A Broken Hea — Redundant, as it appears to be a list of unrelated film titles.
+2025-06-21 12:53:59,348 │ INFO     │ Added summary to AEM. Current memory:
+2025-06-21 12:53:59,348 │ INFO     │    1. Carole King & James Taylor: Just Call Out My Name documentary premieres on CNN & HBO Max.120
+2025-06-21 12:53:59,348 │ INFO     │    2. The film "Carole King & James Taylor: Just Call Out My Name" premieres on CNN on January 2 at 9:00pm ET/PT.120
+2025-06-21 12:54:09,153 │ INFO     │ Ranker tags & reasons:
+2025-06-21 12:54:09,153 │ INFO     │   (VH) :00PM ET/PT on CNN  CNN Films will premiere CAROLE KING & JAMES TAYLOR: Just Call Out My Name for te — New and relevant information about the premiere date, time, and streaming platforms.
+2025-06-21 12:54:09,153 │ INFO     │   (VH) he film was commissioned by CNN Films and HBO Max.  CNN is the exclusive domestic broadcaster for th — New and relevant information about the domestic broadcaster and streaming platforms.
+2025-06-21 12:54:09,153 │ INFO     │   (H) ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be avai — Confirms the premiere date and time, but doesn't add new information about streaming platforms.
+2025-06-21 12:54:09,153 │ INFO     │   (M) er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. — Provides some new information about the documentary's content, but doesn't add much to the known context.
+2025-06-21 12:54:09,154 │ INFO     │   (M) he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name d — Provides some new information about the documentary's content, but doesn't add much to the known context.
+2025-06-21 12:54:09,154 │ INFO     │   (M) LE KING & JAMES TAYLOR: Just Call Out My Name documents the beloved songwriters' triumphant 2010 Tro — Provides some new information about the documentary's content, but doesn't add much to the known context.
+2025-06-21 12:54:09,154 │ INFO     │   (L) t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   Ju — Irrelevant, as it's a list of dates and times that don't relate to the question.
+2025-06-21 12:54:09,154 │ INFO     │   (L) Aly Parker                                                                                           — Irrelevant, as it's a review section with no information about the premiere.
+2025-06-21 12:54:09,154 │ INFO     │   (L) s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clip — Irrelevant, as it's a personal anecdote and doesn't provide new information about the premiere.
+2025-06-21 12:54:09,154 │ INFO     │   (L) Place in Time (EPIX), and most recently the Emmy-winning The Bee Gees: How Can You Mend A Broken Hea — Irrelevant, as it's a list of unrelated documentaries.
+2025-06-21 12:54:10,690 │ INFO     │ Added summary to AEM. Current memory:
+2025-06-21 12:54:10,690 │ INFO     │    1. Carole King & James Taylor: Just Call Out My Name documentary premieres on CNN & HBO Max.120
+2025-06-21 12:54:10,690 │ INFO     │    2. The film "Carole King & James Taylor: Just Call Out My Name" premieres on CNN on January 2 at 9:00pm ET/PT.120
+2025-06-21 12:54:10,690 │ INFO     │    3. CNN will premiere "Carole King & James Taylor: Just Call Out My Name" on Jan. 2, 2022, at 9:00pm ET/PT.120
+2025-06-21 12:54:18,990 │ INFO     │ Ranker tags & reasons:
+2025-06-21 12:54:18,990 │ INFO     │   (VH) he film was commissioned by CNN Films and HBO Max.  CNN is the exclusive domestic broadcaster for th — The information provides the specific date and time of the premiere on CNN and HBO Max.
+2025-06-21 12:54:18,990 │ INFO     │   (H) Aly Parker                                                                                           — The information provides the release year of the documentary.
+2025-06-21 12:54:18,990 │ INFO     │   (M) er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. — The information provides some background on the documentary's content, but it's not new or relevant to the question.
+2025-06-21 12:54:18,990 │ INFO     │   (M) rst performed together in 1970 at The Troubadour, the famed Los Angeles music venue that initially h — The information provides some background on the history of Carole King and James Taylor's collaboration, but it's not new or relevant to the question.
+2025-06-21 12:54:18,990 │ INFO     │   (L) ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be avai — The information is a repetition of the known context.
+2025-06-21 12:54:18,990 │ INFO     │   (L) t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   Ju — The timestamp is irrelevant to the question.
+2025-06-21 12:54:18,990 │ INFO     │   (L) s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clip — The information is a repetition of the known context.
+2025-06-21 12:54:18,990 │ INFO     │   (L) he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name d — The information is a repetition of the known context.
+2025-06-21 12:54:18,991 │ INFO     │   (L) Place in Time (EPIX), and most recently the Emmy-winning The Bee Gees: How Can You Mend A Broken Hea — The information is a repetition of the known context.
+2025-06-21 12:54:18,991 │ INFO     │   (L) LE KING & JAMES TAYLOR: Just Call Out My Name documents the beloved songwriters' triumphant 2010 Tro — The information is a repetition of the known context.
+2025-06-21 12:54:20,605 │ INFO     │ Added summary to AEM. Current memory:
+2025-06-21 12:54:20,605 │ INFO     │    1. Carole King & James Taylor: Just Call Out My Name documentary premieres on CNN & HBO Max.120
+2025-06-21 12:54:20,605 │ INFO     │    2. The film "Carole King & James Taylor: Just Call Out My Name" premieres on CNN on January 2 at 9:00pm ET/PT.120
+2025-06-21 12:54:20,605 │ INFO     │    3. CNN will premiere "Carole King & James Taylor: Just Call Out My Name" on Jan. 2, 2022, at 9:00pm ET/PT.120
+2025-06-21 12:54:20,605 │ INFO     │    4. The film "CAROLE KING & JAMES TAYLOR: Just Call Out My Name" was commissioned by CNN Films and HBO Max, premiering on Jan. 2 on CNN.120
+2025-06-21 12:54:27,999 │ INFO     │ Ranker tags & reasons:
+2025-06-21 12:54:27,999 │ INFO     │   (VH) Aly Parker                                                                                           — Provides the premiere date and platform, but not the time.
+2025-06-21 12:54:27,999 │ INFO     │   (H) er brilliant music documentary, Carole King & James Taylor: Just Call Out My Name, to kick off 2022. — Provides additional context about the documentary's content, but not the premiere date.
+2025-06-21 12:54:27,999 │ INFO     │   (L) ylor: Just Call Out My Name premiered January 2, 2022, at 9:00pm ET/PT on CNN. The film will be avai — The information is a repetition of the known context.
+2025-06-21 12:54:28,000 │ INFO     │   (L) t 7, 2023, 4:53 pm   August 7, 2023, 4:30 pm   August 2, 2023, 6:30 am   April 7, 2023, 8:45 am   Ju — The date is not relevant to the question of the premiere date.
+2025-06-21 12:54:28,000 │ INFO     │   (L) s ago, and now again a third time officially, with this movie. Just Call Out My Name opens with clip — The information is a personal opinion and not relevant to the question.
+2025-06-21 12:54:28,000 │ INFO     │   (L) he and King hatched plans for a 2010 world tour. CAROLE KING & JAMES TAYLOR: Just Call Out My Name d — The information is a repetition of the known context.
+2025-06-21 12:54:28,000 │ INFO     │   (L) Place in Time (EPIX), and most recently the Emmy-winning The Bee Gees: How Can You Mend A Broken Hea — The information is a repetition of the known context.
+2025-06-21 12:54:28,000 │ INFO     │   (L) LE KING & JAMES TAYLOR: Just Call Out My Name documents the beloved songwriters' triumphant 2010 Tro — The information is a repetition of the known context.
+2025-06-21 12:54:28,000 │ INFO     │   (L) rst performed together in 1970 at The Troubadour, the famed Los Angeles music venue that initially h — The information is a repetition of the known context.
+2025-06-21 12:54:28,000 │ INFO     │   (L) air reprising that show for the West Hollywood venue’s own 50th anniversary in 2007, and several ful — The information is a repetition of the known context.
+2025-06-21 12:54:29,098 │ INFO     │ Added summary to AEM. Current memory:
+2025-06-21 12:54:29,099 │ INFO     │    1. Carole King & James Taylor: Just Call Out My Name documentary premieres on CNN & HBO Max.120
+2025-06-21 12:54:29,099 │ INFO     │    2. The film "Carole King & James Taylor: Just Call Out My Name" premieres on CNN on January 2 at 9:00pm ET/PT.120
+2025-06-21 12:54:29,099 │ INFO     │    3. CNN will premiere "Carole King & James Taylor: Just Call Out My Name" on Jan. 2, 2022, at 9:00pm ET/PT.120
+2025-06-21 12:54:29,099 │ INFO     │    4. The film "CAROLE KING & JAMES TAYLOR: Just Call Out My Name" was commissioned by CNN Films and HBO Max, premiering on Jan. 2 on CNN.120
+2025-06-21 12:54:29,099 │ INFO     │    5. There are no reviews for Carole King & James Taylor: Just Call Out My Name as the movie has not been released yet.120

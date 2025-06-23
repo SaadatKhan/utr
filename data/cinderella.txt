@@ -1,0 +1,21 @@
+Cinderella was a gentle young girl who lived with her father in a small town. After her mother died, her father married a proud woman who had two daughters of her own. They all moved into the same house, and at first Cinderella hoped for a happy family.
+
+But the new wife soon showed her true heart. She made Cinderella do every chore—sweeping, scrubbing, cooking, and mending—while her own daughters lounged by the fire. Because ashes often covered her dress, they mocked her and called her “Cinderella,” meaning the girl who slept in cinders.
+
+Some months later, Cinderella’s father became sick on a long trip and never came home. Without his kindness to protect her, the stepmother’s cruelty grew sharper each day. She pushed Cinderella into the attic, gave her old rags to wear, and spoke to her only to give orders.
+
+One spring morning a bright envelope arrived from the palace. The king was giving a grand ball so his son could meet every young lady and choose a bride. The whole town buzzed with excitement. Cinderella’s stepsisters squealed and ran to find ribbons, jewels, and the finest dresses.
+
+Cinderella also wished to go, but she had nothing pretty to wear. Still, she begged her stepmother for permission. The woman laughed. She said Cinderella could attend if she finished mountains of work and found a gown of her own. She secretly planned the tasks so they were impossible.
+
+On the evening of the ball, the carriage carrying her stepsisters rolled away while Cinderella sat alone in the garden and cried. Suddenly a warm light filled the air. An old woman with a kind smile stood beside her. “I am your fairy godmother,” she said. “Dry your tears.”
+
+With a wave of her silver wand, the fairy turned a pumpkin into a shining coach, mice into horses, and a lizard into a fine footman. Last, she touched Cinderella’s rags, and they became a sparkling blue gown with glass slippers. “Remember,” she warned, “the magic ends at midnight.”
+
+Cinderella stepped into the palace and every head turned. The prince offered his hand and danced with her all evening, enchanted by her gentle voice. Jealous whispers spread among the other guests, but no one recognized the mysterious girl. For the first time in years, Cinderella felt truly happy.
+
+Then the great clock began to strike twelve. Terrified, Cinderella pulled away and ran down the marble stairs. One glass slipper slipped from her foot, but she could not stop. She jumped into the waiting coach, which sped off into the night, changing back to a pumpkin at the gate.
+
+The next day the prince searched the kingdom, trying the tiny slipper on every maiden. At last he reached Cinderella’s house. The stepsisters pushed forward, but the shoe did not fit. When Cinderella tried, it slipped on easily. The prince smiled, married her soon after, and they lived in kindness ever after. Her old home became a place of laughter, where no one felt forgotten.
+
+The next major revolution came with attention mechanisms and transformer models around 2017. These systems could focus on different parts of a sentence when trying to understand each word, much like how humans pay attention to relevant context when reading. When processing the word "it" in a sentence, the system could look back and figure out what "it" referred to. This attention mechanism allowed computers to handle much longer texts and understand complex relationships across entire documents, not just individual sentences.
