@@ -1,0 +1,187 @@
+question,optimal_lambda(s),max_rouge_score
+Who is Sobe (Sister Of Saint Anne)'s grandchild?,"[0.7, 0.8]",1.0
+Do both Beauty And The Bad Man and Wild Child (Film) films have the directors from the same country?,"[0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is Helmichis's father-in-law?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Where did Helena Carroll's father study?,[0.7],0.888888888888889
+Where does the director of film Wine Of Morning work at?,"[0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director who was born earlier, The Secret Invasion or The House Of The Seven Hawks?",[0.8],1.0
+Who is the spouse of the director of film Emergency Wedding?,"[0, 0.1, 0.2, 0.3, 0.5, 1.0]",1.0
+"Which film came out earlier, Indradhanura Chhai or The Death Of Black King?","[0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Do both films The Reincarnation Of Golden Lotus and I'Ll Get By (Film) have the directors from the same country?,"[0, 0.1, 0.2, 0.3, 0.4, 0.7, 0.8, 0.9, 1.0]",1.0
+"Are both villages, Rhosgoch and Qaleh-Ye Sahar, located in the same country?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Where was the director of film Kanneshwara Rama born?,"[0, 0.1, 0.2, 0.3, 0.4]",1.0
+Where did the performer of song I'Ll Say It graduate from?,[0.4],1.0
+"Which film has the director who was born first, Hell Up In Harlem or The Soviet Story?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who was born first, Cipriano Castro or Damir Nikšić?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director who died first, The Year Of The Rabbit or Monster On The Campus?","[0.2, 0.3, 0.5, 0.7, 0.9, 1.0]",1.0
+"Who is younger, Guy Arvely Dolsin or Altuğ Çelikbilek?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which song came out first, Joel The Lump Of Coal or Jugband Blues?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who is Archibald Acheson, 4Th Earl Of Gosford's paternal grandfather?","[0, 0.1, 0.2, 0.3, 0.4]",0.8333333333333334
+Where did the performer of song Fantasy (George Michael Song) die?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Do director of film Betrayal (1932 Film) and director of film The Godsend (Film) share the same nationality?,"[0.1, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film whose director was born first, The Abduction Club or Wooden Crosses?","[0, 0.2]",1.0
+"Which film came out earlier, Above Rubies or The Magic Aster?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director who is older than the other, Blue Blood And Red or The Longshot? ","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who was born later, Paul De Scherff or Lyudmyla Olyanovska?","[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director who died first, Tex And The Lord Of The Deep or Henry Goes Arizona?","[0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film whose producer was born first, All-American Co-Ed or Lagu Kenangan?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is the place of birth of the director of film A Chrysanthemum Bursts In Cincoesquinas?,"[0.2, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film was released more recently, Bajo Otro Sol or Riding The California Trail?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is the spouse of the director of film Streets Of Blood?,"[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Where was the place of death of Sancha Of Castile, Queen Of Navarre's mother?",[0.5],1.0
+"Which film was released more recently, Dance With A Stranger or Miley Naa Miley Hum?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director died later, Seven In The Sun or Daughter Of The Jungle?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film was released first, Vacations In Majorca or Dr. Socrates?","[0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director born later, Woman In The Moon or Changeland?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who is younger, Peter Rosegger or Ruel Redinger?","[0.5, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is the spouse of the performer of song This Time (Waylon Jennings Song)?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Are Twin Cairns Island and Nova Zembla Island located in the same country?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who died first, Erich Haenisch or William Pooley?",[0.2],1.0
+Do Nick Varner and Carl Duser share the same nationality?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 1.0]",1.0
+"Which film has the director who died earlier, Melody Of The World or Ladies Love Danger?","[0, 0.1, 0.2, 0.3, 0.4, 0.5]",1.0
+Who is the mother of the director of film Atomised (Film)?,"[0.6, 0.8, 0.9, 1.0]",1.0
+What is the place of birth of the director of film Sweepstakes (Film)?,[0.5],1.0
+Where was the place of death of Shahnawaz Bhutto's mother?,"[0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Are Gut (Crișul Alb) and Gepiș both located in the same country?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who is Sir William Gore, 3Rd Baronet's paternal grandfather?",[0.6],1.0
+Where was the wife of Lou Breslow born?,"[0.9, 1.0]",1.0
+"Which film came out earlier, The Drover'S Sweetheart or Pigsty (Film)?","[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film came out earlier, Closely Watched Trains or Det Sande Ansigt?","[0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film has the director who died earlier, Il Gaucho or Bomgay?","[0.4, 0.5]",1.0
+"Which film came out first, The Pyrammmid or Revolt Of The Praetorians?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Are both directors of films La Morte Vivante and Stranger On Horseback from the same country?,[1.0],1.0
+What is the cause of death of Constantia Eriksdotter's father?,[0.5],1.0
+"Which film came out earlier, X-Paroni or Mi Novia Está De Madre?","[0, 0.1, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which film was released earlier, August Underground'S Penance or Vasantha Raagam?","[0, 0.1, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is the father-in-law of Hong Ra-Hee?,[0.3],1.0
+Who is Isabella Of Bourbon's paternal grandfather?,"[0.6, 0.7, 0.8, 0.9]",1.0
+What is the place of birth of the director of film Gunsmoke (Film)?,"[0.2, 0.3]",1.0
+"Who lived longer, Charles Wheatstone or Jean-Claude Lauzon?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which case was brought to court first Miller v. California or Gates v. Collier ?,"[0, 0.1, 0.2, 0.3, 0.4, 1.0]",1.0
+"The actor that plays Phileas Fogg in ""Around the World in 80 Days"", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?","[0.6, 0.7]",1.0
+Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which is a flowering plant, Pueraria or Pleiospilos?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?",[0.7],1.0
+"When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?","[0.6, 0.7, 0.8, 0.9]",1.0
+Finally includes the song that peaked at what on the US Hot 100,"[0.3, 0.9, 1.0]",1.0
+Which retired Argentine footballer who played as a forward was a main player for Valencia CF?,"[0.5, 0.7]",0.8571428571428571
+"The song that came out ahead of The Wanted's ""Lightning"" on the UK Singles Chart was featured on which album?","[0.1, 0.2]",1.0
+"What Friday night programming block included what collective series that includes ""Whatever Happened to... Robot Jones?""?",[0],1.0
+"Oak Beach, New York and Great South Bay are both situated between what same island?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is a guest in the final two episodes of season eighteen of South Park?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?,"[0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+The large subunit and small subunit that use two types of RNA are major components that make up what?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Whiich genus has more species, Dracula or Pistacia?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Band-e-Amir Dragons is named after the lakes in which Afghan national park?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+The 1958 Pro Bowl was played at the California stadium that is the home for which college?,[0.5],1.0
+Spider9 was founded in 2011 by the head of which subsidiary of Wanxiang Group?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+McLaren MP4/11 was driven by what Finnish former professional racing driver,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who choreographed one who is said to be the last muse for the choreographer and starred in the Nutcracker?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which utility holding company did Alfred A. Marcus work as a consultant?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+"Which film was released first, Summer Magic or Around the World in 80 Days?","[0, 0.1, 0.2, 0.3, 0.4, 0.5]",1.0
+The physicist who is responsible for identifying the Rabi cycle won what award?,"[0, 0.1, 0.2, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in which country?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+"Which person is known for playing in punk bands, Keith Morris or Rome Ramirez?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?,"[0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+When was the plaintiff in the 1892 Barbed Wire Patent Case born?,[0.8],1.0
+When did the place in Canada where François Beaucourt (1740-1794) was mainly active acquired its present name?,[0.6],1.0
+"Who gave the mother of Alberic II of Spoleto the title ""patricia"" of Rome?","[0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?,"[0.8, 1.0]",1.0
+Are Stanley Elkin and Anne Tyler from the same country?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?,[0.3],1.0
+Were the Tundra Mine and Negus Mine located in the same country?,"[0, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Jolyon James performed the role of Moonshadow in a musical by a composer of what nationality?,"[0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What Nobel Laureate teaches at  Chapman University?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+"Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as ""the Radiohead of metal""?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which country is home to Alsa Mall and Spencer Plaza?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Are Mick Jagger and Brett Scallions both musicians?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]",1.0
+Morgan Paull played Dave Holden in a 1982 film loosely adapted from a novel by what author?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Which is in the pop genre, Capital Cities or Tweaker?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"Who was born first,  Morgan Llywelyn or Robert Jordan?","[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+"A wide receiver for the Toronto Argonauts played college football for a team that represents the University of Oklahoma, which belongs to what conference?","[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 1.0]",0.8
+In which six Western European territories have Celtic languages or cultural traits survived?,"[0.8, 0.9, 1.0]",0.9411764705882352
+"Which is farther north, Steel Venom or Wicked Twister?","[0.4, 0.5, 0.6]",1.0
+Who was the gunman of the hostage crisis which Chris Reason was awarded the Graham Perkin Australian Journalist of the Year Award for his coverage of?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+1920 Politics was a Republican political strategy to reassert the authority of the white race in which US state?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Are Pothos and Tibouchina Aubl both flowering genus of plants?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Which conference is the team for which Justin Bannan played college football currently a member of?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+Are Werther and The Odyssey both operas?,"[0, 0.1, 0.2, 0.3]",1.0
+What occupation is shared by both Marge Piercy and Richard Aldington?,"[0, 0.1, 0.2, 0.3, 0.4, 0.6, 0.8, 0.9, 1.0]",1.0
+Are both Duke Energy and Affiliated Managers Group based in Massachusetts?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What was the first year a scientific journal published by an organization located in the Bronx was published?,"[0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What was Hugh H. Goodwin's rank in the United States Navy?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is the recommended daily intake of vitamin K for adult women and men?,"[0.6, 0.7]",0.9411764705882352
+What is the main advantage of a horizontal business model for mobile devices?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who was Brooksley Elizabeth's first husband?,"[0.3, 0.4, 0.5, 0.6, 0.7, 0.8]",1.0
+What are the three teams that used conflict optimization in the challenge?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8571428571428571
+What types of sensors are now capable of estimating physical activity levels and physiological outcomes of older adults?,"[0.5, 0.6, 0.8, 0.9, 1.0]",1.0
+What did the decision to base the water rates on usage reflect?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What did Mary tell the disciples?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+How many brother does Njoroge have?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is the problem encountered when building the fuselage sides?,[1.0],0.9166666666666666
+对于PD3.0协议，FS312BH支持的最高诱骗电压是多少？,"[0, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+When did Born resign as chairperson of the CFTC?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What was the population of McPherson County according to the 2020 census?,"[0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+When did the 2017 general election be held?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What hedge fund's collapse in 1998 highlighted the need for regulation of derivatives?,"[0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is the program chair of this conference?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+How do the runtimes and iteration counts of NFPA and FPSA compare to GMRES and DSA in the numerical experiments?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.9333333333333332
+Which air unit did Goodwin command during the initial landings of Marines on Saipan?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is Professor Tulis's forthcoming book?,[0.6],0.8484848484848484
+What was the club known as before being officially renamed FC Urartu?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is the definition of mobile device management (MDM)?,"[0.2, 0.6]",1.0
+How many massive star-forming regions were studied?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What is the average magnetic moment per column in Ge$_{1-x}$Mn$_{x}$ films?,"[0.5, 0.7, 0.8]",1.0
+What was the person who provided evidence to suggest the existence of the neutron a participant of?,"[0, 0.1]",1.0
+Who is the child of the cast member of Green Ice?,[0],1.0
+Who was the first African American student at the university Robert Khayat was educated at?,"[0.5, 0.6]",0.8
+Who is Frances Freeling Broderip's sibling?,"[0.4, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who is the spouse of the person who voices Jarvis in Iron Man?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6]",1.0
+Mehmet Hayri Tarhan's birthplace is the capital of what municipality?,"[0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+The author of Elizabeth and After attended which university?,"[0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What year did the publisher of Labyrinth end?,[0.8],1.0
+Who did the person considered the founder of three major monotheistic religions marry after the death of Sarah?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+In what region of the country of S-Fone is The place of birth of John Phan located?,"[0.5, 0.6, 0.7, 0.8]",1.0
+Who played the girlfriend of who plays marty mcfly's daughter in back to the future 2?,"[0.3, 0.4, 0.8, 0.9, 1.0]",1.0
+What is the seat of the county sharing a border with the county in which J. P. Hayes was born?,"[0.7, 0.8, 0.9, 1.0]",1.0
+In which county was Larkin I. Smith born?,"[0.5, 1.0]",1.0
+What movie did the person who acted in the comedy film Crime School win his only Oscar for?,"[0.5, 0.8, 0.9]",1.0
+with what movie did Mary Philips' husband win his only oscar?,"[0.3, 0.7, 0.8, 0.9, 1.0]",1.0
+Who wrote the song turn me on that is performed by performer of Feelin' the Same Way?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What institute did the actor playing the voice of John Smith in Pocahontas attend?,[0.2],0.9090909090909092
+Which is the body of water near George Mills' place of birth?,"[0, 0.1, 0.2, 0.3, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+When was the death penalty abolished in the country near the country where the writer of The Book Thief is a citizen of?,"[0, 0.1, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]",1.0
+Who is the brother of the Nothin' My Love Can't Fix performer?,"[0.2, 0.3, 0.5, 0.6, 0.8, 0.9, 1.0]",1.0
+Who is the brother of the Melissa and Joey Theme Song singer?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who started the foundation that developed the Free Software Directory?,[0.7],1.0
+Where was the president born on the fourth of July born?,"[0.5, 0.6, 0.7, 0.8]",0.8
+Who is the employer of the person Mach's principle was named after?,[0.4],1.0
+What is the symbol of the Saints from the city that is the location of Blanton's manufacturer's headquarters called?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What mythology is the city where Eutychides was born in a part of?,"[0.5, 0.6, 0.7]",1.0
+What undertaking included the person who discovered that the number of protons in each element's atoms is unique?,"[0.2, 0.3]",1.0
+"Who is one of the members of the music group that performed ""Good Little Girls""?","[0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What character in A League of their Own was played by the actress who played Thelma in the movie Thelma and Louise?,"[0.7, 0.9, 1.0]",1.0
+What is the abbreviated name of the exclusive platform of the video game named for the league with a halftime event just before the publishers clearing house sweepstakes drawing.,"[0.9, 1.0]",1.0
+Who is the spouse of the person who plays Batman in the Lego Batman Movie?,"[0, 0.1]",1.0
+When did the explorer reach the headquarters location of the group Con-Test's record label is part of?,"[0, 0.1, 0.3, 0.4, 0.5, 0.6]",1.0
+What is the name of the castle in the city where the performers of Spirit If.. became a band?,"[0.3, 0.4, 0.5, 0.6]",1.0
+Who wrote a book about growing up in the same nationality as the man who produced The Wild Women of Chastity Gulch?,"[0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Where does the witch live?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",0.8
+How long had Mortimer Trefinnis' sister been dead when the doctor examined the body?,[0.7],1.0
+Who did the Witch want to have reveal their own lies?,"[0, 0.1, 0.2, 0.3, 0.4]",1.0
+How long after Madame de Merret dies before people are allowed inter manor?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who doe the Vervelle couple believe Grassou is the perfect match for?,"[0.3, 0.7, 0.8]",0.8
+Who does Vervelle want his daughter to marry?,"[0.2, 0.3]",1.0
+How many ethical arguments does Socrates propose?,"[0.2, 0.3, 0.4, 0.8]",1.0
+What year is it when Anthony Rogers finally disembarks from the coal mine?,"[0, 0.1, 0.2, 0.3, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+What ghost emerged from a painting at Dana's workplace?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who did Ruth Honeywill plan to escape with?,"[0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Where were Jim and Dave from?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+To whom does Miranda write her letters?,"[0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+How many days do viewers of the tape have to live after they watch it?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8, 0.9, 1.0]",1.0
+What was Grassou's wife's name?,"[0.6, 0.8]",1.0
+What is the name of Mortimer Treginnis' sister?,"[0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]",1.0
+Who asks the Ghostbusters for help?,"[0.2, 0.3, 0.4]",1.0
